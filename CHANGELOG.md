@@ -5,7 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [Unreleased](https://github.com/stefanzweifel/laravel-sends/compare/v2.8.0...HEAD)
+## [Unreleased](https://github.com/stefanzweifel/laravel-sends/compare/v2.8.1...HEAD)
+
+## [v2.8.1](https://github.com/stefanzweifel/laravel-sends/compare/v2.8.0...v2.8.1) - 2026-02-27
+
+### Changed
+
+- Add Support for Laravel 13 ([#29](https://github.com/stefanzweifel/laravel-sends/pull/29))
+- Update Issue Templates ([#28](https://github.com/stefanzweifel/laravel-sends/pull/28))
 
 ## [v2.8.0](https://github.com/stefanzweifel/laravel-sends/compare/v2.7.0...v2.8.0) - 2025-11-24
 
